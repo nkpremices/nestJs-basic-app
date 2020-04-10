@@ -1,6 +1,6 @@
 ## Description
 
-A basic api demonstrating how powerfull nestJs is
+A basic api demonstrating how powerfull nestJs is. Here, I am building a basic CRUD app related to tasks.
 
 ## Installation
 
